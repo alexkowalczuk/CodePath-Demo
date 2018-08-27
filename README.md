@@ -5,7 +5,7 @@ Basic App that by clicking the button “Change Text Color” the text will chan
 
 ### App Walk-though
 
-<img src="https://imgur.com/X7P3IY6" width=200><br>
+<img src="https://i.imgur.com/X7P3IY6.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
